@@ -1,0 +1,5 @@
+- Name:Brian Jacob
+- Likes: Football, Craft Beers, Live Music, Travelling, Indian Food
+- Dislikes: Traffic, Rudeness and Olives!
+- Favourite Quote: 'Whether you think you can, or you think you can't, youre probably right".
+- GitHub Profile URL: https://https://github.com/brianjacob1
